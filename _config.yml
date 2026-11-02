@@ -28,6 +28,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://projectryanh.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  stackbuff
+instagram_username: ryanrainnhe
+linkedin_username: hainamanaryan
 author: Ryan He
 
 # Build settings
