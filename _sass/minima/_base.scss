@@ -1,23 +1,27 @@
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
+body, h1, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-  letter-spacing: $name-letter-spacing;
+  letter-spacing: $base-letter-spacing;
 }
 
-b {
+g {
   font-family: $name-font-family;
+  letter-spacing: $name-letter-spacing;
+  font-size: $base-font-size * 1.5;
+  color: $name-color;
+  line-height: $base-line-height * 0.5;
 }
 
 /**
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  font: $base-font-weight #{$base-font-size * 1.15}/#{$base-line-height * 0.85} $base-font-family;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;

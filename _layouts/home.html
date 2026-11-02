@@ -1,13 +1,27 @@
 ---
 layout: default
 ---
+<head>
+  <style>
+    .row {
+      column-count: 2
+    } @media screen and (max-width: 600px) {
+      .row {
+        column-count: 1;
+      } body {
+        margin-left: 1rem;
+        margin-right: 1rem;
+      }
+    }
+  </style>
+</head>
 
 <div class="home">
 
   <div style="
   
     align-self: center;
-    height: 10vh;
+    height: 5vh;
     position: relative;
 
   "></div>
@@ -15,7 +29,7 @@ layout: default
   <div style="
   
     align-self: center;
-    height: 30vh;
+    height: 15vh;
     position: relative;
 
   ">
@@ -23,8 +37,22 @@ layout: default
   <p>Senior at <a href="https://www.shsid.org" target="_blank">Shanghai High School International Division</a></p>
 
   </div>
+  <div style="border-bottom: 1px solid; line-height: unset;">
+      <g><p>Biography</p></g>
+  </div>
 
-  {{ content }}
+  <div class="row" style=" margin-top: 1rem;">
+      {{ content }}
+  </div>
+    <div style="
+  
+    align-self: center;
+    height: 5vh;
+    position: relative;
+
+  "></div>
+
+
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>

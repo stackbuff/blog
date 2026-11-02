@@ -13,12 +13,13 @@
 
 $base-font-family: "MessinaSans-Book", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $name-font-family: "MessinaSans-Black";
-$base-font-size:   16px !default;
+$base-font-size:   1rem !default;
 $name-font-size: 5rem !default;
-$name-letter-spacing: -.014em;
+$base-letter-spacing: 0.014rem;
+$name-letter-spacing: -.044rem;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+$base-line-height: 1.6 !default;
 $name-line-height: 1.1 !default;
 
 $spacing-unit:     30px !default;
@@ -27,7 +28,7 @@ $name-spacing-unit: unset;
 $text-color:       #111 !default;
 $name-color: #1B2A3D !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$brand-color:      #D93640 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -36,10 +37,10 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    1000px !default;
+$content-width:    1300px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        1000px !default;
+$on-laptop:        1300px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
