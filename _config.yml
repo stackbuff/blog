@@ -23,7 +23,7 @@ email: ngamihiryan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I'm a '27 high schooler studying in Shanghai, China. I try to tell human stories
   with my knowledge in law, history, and mātauranga Māori. Come check out my work!<br><br>
-  This site looks familar? That's coz this is a Jekyll-based mockup of [this](https://mitadmissions.org).
+  This site looks familar? That's coz this is a cheeky Jekyll-based mockup of [this](https://mitadmissions.org).
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://projectryanh.org" # the base hostname & protocol for your site, e.g. http://example.com
