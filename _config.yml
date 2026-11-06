@@ -32,6 +32,8 @@ instagram_username: ryanrainnhe
 linkedin_username: hainamanaryan
 author: Ryan He
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:

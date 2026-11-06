@@ -4,7 +4,7 @@
   font-family: "MessinaSans-Black";
   src: url("/assets/MessinaSans-Black.woff2") format("woff2"),
        url("/assets/MessinaSans-Black.woff") format("woff");
-  font-weight: 400;
+  font-weight: 800;
   font-style: normal;
 }
 
@@ -46,7 +46,7 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    1300px !default;
+$content-width:    1000px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        1300px !default;

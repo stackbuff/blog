@@ -39,7 +39,7 @@ layout: default
   <p>Senior at <a href="https://www.shsid.org" target="_blank">Shanghai High School International Division</a></p>
 
   </div>
-  <div style="border-bottom: 1px solid; line-height: unset;">
+  <div style="border-bottom: 1px solid; margin-bottom: 1rem; padding-bottom: 0.25rem;">
       <p class="bold">Biography</p>
   </div>
 
@@ -55,18 +55,10 @@ layout: default
   "></div>
 
 
-
   {%- if site.posts.size > 0 -%}
-      <div style="border-bottom: 1px solid; line-height: unset;">
-      <p class="bold">Recent Posts</p>
-  </div>
-      <div style="
-  
-    align-self: center;
-    height: 5vh;
-    position: relative;
+      <div style="border-bottom: 1px solid; margin-bottom: 1rem; padding-bottom: 0.25rem;">
+      <p class="bold">Recent Posts</p></div>
 
-  "></div>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -78,7 +70,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.subtitle }}
         {%- endif -%}
       </li>
       {%- endfor -%}

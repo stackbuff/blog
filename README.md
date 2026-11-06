@@ -1,1 +1,1 @@
-This is my blog, running on GitHub Pages with a full Jekyll implementation and attempts to recreate the design language of a blogger's page [MIT Admissions](https://mitadmissions.org). 
+This is my blog, running on GitHub Pages with a full Jekyll implementation and attempts to recreate the design language of a blogger's page at [MIT Admissions](https://mitadmissions.org). 

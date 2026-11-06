@@ -14,8 +14,8 @@ You might know me from my work for [Make it 16](https://www.makeit16.org.nz){:ta
 In general, I really like anything that has to do with law, history, and mātauranga Māori. Here are some other things I like:
 
 - Chinese calligraphy 
-- Sharebiking to the nearest chagee only to forget I brought my homework
 - Designing magazines (I did for a while for [my school magazine!](https://shsidtimes.org){:target="_blank"})
 - Doing random things on GitHub ([this](https://github.com/stackbuff){:target="_blank"}) like I know what I'm doing
+- Editing English Wikipedia and Wikimedia Commons
 
 If you need me to do anything or have a question shoot it [here](mailto:ngamihiryan@gmail.com){:target="_blank"}. I hope you have an amazing day!
