@@ -10,7 +10,7 @@ dl, dd, ol, ul, figure {
 }
 
 .bold {
-  font-family: $name-font-family;
+  font-family: $name-font-family!important;
   letter-spacing: $name-letter-spacing;
   font-size: $base-font-size * 1.5;
   color: $name-color;
