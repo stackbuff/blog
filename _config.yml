@@ -40,6 +40,10 @@ plugins:
   - jekyll-feed
   - jekyll-target-blank
 
+
+kramdown:
+  footnote_backlink: "\u21A9\uFE0E"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

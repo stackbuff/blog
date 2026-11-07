@@ -6,7 +6,7 @@ date:   2026-11-07 00:02:00 +0800
 categories: books monthly
 author: "Ryan He"
 ---
-November has thus hit me like a truck - I've had a bunch of work to do, EE, TOK essay, and the normal bustle and bustle. This month (after midterms...) I'm challenging myself to get through these lovely books that I've started in some part of the past. 
+November has thus hit me like a truck - I've had a bunch of work to do, EE, TOK essay[^essays], and the normal hustle and bustle. This month (after midterms...) I'm challenging myself to get through these lovely books that I've started in some part of the past. 
 
 ### for school
 
@@ -54,3 +54,7 @@ Kuang, R. F. _Babel: Or the Necessity of Violence: An Arcane History of the Oxfo
 Huang, Xiaoming. _China and the Liberal International Order: Roots of a Plural World Order._ Routledge, 2026. 
 
 **See you at the end of the month!**
+
+---
+
+[^essays]:These are writing assignments from the IB. The EE is 4000 words and the TOK essay is 1600. My brain is currently broadcasting 7070.

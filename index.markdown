@@ -5,8 +5,6 @@
 layout: home
 ---
 
-![A cartoon drawing of Ryan made by himself on November 6, 2026.]({{ "assets/ryan1126.png" | relative_url }})
-
 Hello, nihao, _nongho_ and kia ora! I'm Ryan, '27 straight out of Shanghai, China, and originally from Tāmaki Makaurau Auckland, New Zealand. 
 
 You might know me from my work for [Make it 16](https://www.makeit16.org.nz){:target="_blank"}, where I help out by making motion graphics, editing videos, and doing research on why the voting age in Aotearoa should lower to 16 ([here are some reasons!](https://www.makeit16.org.nz/reasons){:target="_blank"}) 
